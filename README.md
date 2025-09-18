@@ -20,3 +20,8 @@ This project is a **responsive landing page** built with **React** and **Tailwin
    ```bash
    https://github.com/vik802207/Karbon-Card
 ```
+## ScreenShot
+![Landing Page Screenshot](https://github.com/vik802207/Karbon-Card/blob/main/img/Screenshot%20(825).png?raw=true)
+![Landing Page Screenshot](https://github.com/vik802207/Karbon-Card/blob/main/img/Screenshot%20(826).png?raw=true)
+![Landing Page Screenshot](https://github.com/vik802207/Karbon-Card/blob/main/img/Screenshot%20(827).png?raw=true)
+![Landing Page Screenshot](https://github.com/vik802207/Karbon-Card/blob/main/img/Screenshot%20(828).png?raw=true)
